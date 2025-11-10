@@ -15,7 +15,7 @@ const Platforms = () => {
   }, {
     name: 'Walmart',
     description: 'Find our products on Walmart Marketplace.',
-    icon: 'https://commons.wikimedia.org/w/index.php?curid=123921846'
+    icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Walmart_logo.svg/2560px-Walmart_logo.svg.png'
   }, {
     name: 'Target',
     description: 'Discover our offerings on Target Plus.',
