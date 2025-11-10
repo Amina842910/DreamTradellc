@@ -8,7 +8,7 @@ const Header = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0">
               <span className="text-2xl font-bold text-blue-600">
-                A&K DreamTrade<span className="text-gray-700">LLC</span>
+                A&K DreamTrade<span className="text-gray-700"> LLC</span>
               </span>
             </div>
           </div>
