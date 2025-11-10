@@ -33,7 +33,7 @@ const Contact = () => {
                     Email
                   </dt>
                   <dd className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-                    info@dreamtradellc.com
+                    contact@dreamtradellc.com
                   </dd>
                 </div>
                 <div className="bg-white px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
@@ -42,7 +42,7 @@ const Contact = () => {
                     Phone
                   </dt>
                   <dd className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-                    +1 (555) 123-4567
+                    +1 (330) 554-3385
                   </dd>
                 </div>
                 <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
@@ -62,7 +62,7 @@ const Contact = () => {
           <div className="mt-10 sm:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-6">
               <div className="mt-5 md:mt-0">
-                <form action="#" method="POST" className="bg-white shadow overflow-hidden sm:rounded-lg p-6">
+                <form action="https://formspree.io/f/myzlygey" method="POST" className="bg-white shadow overflow-hidden sm:rounded-lg p-6">
                   <div className="grid grid-cols-6 gap-6">
                     <div className="col-span-6 sm:col-span-3">
                       <label htmlFor="first-name" className="block text-sm font-medium text-gray-700">
